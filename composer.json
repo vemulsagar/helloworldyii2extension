@@ -1,0 +1,14 @@
+{
+    "name": "sagarvemul/hello-world",
+    "authors": [
+        {
+            "name": "sagar vemul"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
