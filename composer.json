@@ -5,6 +5,8 @@
             "name": "sagar vemul"
         }
     ],
+    "minimum-stability": "stable",
+     "prefer-stable": true,
     "require": {},
     "autoload": {
         "psr-0": {
